@@ -17,7 +17,9 @@ $ sudo pip install argparse
 
 
 ## Usage
-$ python app.py --college-code 1EP --branch cs --year 14 --usn-from 000 --usn-to 100 --file results_cs
+$ python app.py --college-code 1st --branch cs --year 14 --usn-from 000 --usn-to 100 --file results_cs
+
+
 --college-code or -c: college code. eg: 1st
 
 --branch or -b: branch of student either cs, or is. eg: cs
