@@ -5,6 +5,12 @@ A python script that fetches the results from results.vtu.ac.in and exports them
 $ git clone https://github.com/yogeshojha/vtu_result.git
 
 $ cd vtu_result
+## Requirements
+$ sudo pip install lxml
+$ sudo pip install requests
+$ sudo pip install openpyxl
+$ sudo pip install argparse
+
 
 ## Usage
 $ python app.py --college-code 1EP --branch cs --year 14 --usn-from 000 --usn-to 100 --file results_cs
