@@ -7,9 +7,13 @@ $ git clone https://github.com/yogeshojha/vtu_result.git
 $ cd vtu_result
 ## Requirements
 $ sudo pip install lxml
+
 $ sudo pip install requests
+
 $ sudo pip install openpyxl
+
 $ sudo pip install argparse
+
 
 
 ## Usage
