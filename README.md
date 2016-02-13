@@ -3,6 +3,7 @@ A python script that fetches the results from results.vtu.ac.in and exports them
 
 ## Installation
 $ git clone https://github.com/yogeshojha/vtu_result.git
+
 $ cd vtu_result
 
 ## Usage
